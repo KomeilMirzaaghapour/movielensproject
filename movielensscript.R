@@ -1,5 +1,5 @@
 # This R script is for the Harvard CapStone Movielens project.
-# If your computer has sufficient memory, then you should be able to run the script and get the predicted RMSE. 
+# If your computer has sufficient memory (>64GB), then you should be able to run the script and get the predicted RMSE. 
 # This script starts with the 9 helper functions described in the pdf report (helper functon 8 is inside helper function 9).
 # the code for generating edx and validation set is copied from the course material website.
 # the data visualization code can all be found in the movielensreport.Rmd file. 
