@@ -1,9 +1,9 @@
 ---
 title: "Movielens Project Report"
-author: "Min Zhou"
-date: "2/12/2019"
+author: "Komeil Mirzaaghapour"
+date: "12/27/2020"
 geometry: margin=2cm
-urlcolor: blue
+urlcolor: black
 output: 
   pdf_document:
     toc: true
